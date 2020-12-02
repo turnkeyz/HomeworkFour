@@ -1,3 +1,4 @@
+#Kyler Telge 1825829#
 # TODO: Write a selection_sort_descend_trace() function that
 #       sorts the numbers list into descending order
 def selection_sort_descend_trace(numbers):
