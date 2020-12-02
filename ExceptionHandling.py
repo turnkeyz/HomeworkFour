@@ -1,3 +1,4 @@
+#Kyler Telge 1825829#
 # Split input into 2 parts: name and age
 parts = input().split()
 name = parts[0]
